@@ -1,4 +1,4 @@
-# JVec Assessment Frontend - Contact Book App
+# JVEC Assessment Frontend - Contact Book App
 
 Welcome to the JVec Assessment Frontend Contact Book Flutter project. This README will guide you through the installation and usage of the Contact Book App built using Flutter. The Contact Book App allows you to manage your contacts easily. 
 
